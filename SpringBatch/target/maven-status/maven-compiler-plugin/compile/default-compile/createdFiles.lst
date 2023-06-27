@@ -1,0 +1,7 @@
+com\deepak\SpringBatch\model\User.class
+com\deepak\SpringBatch\Repository\UserRepository.class
+com\deepak\SpringBatch\controller\LoadController.class
+com\deepak\SpringBatch\config\SpringBatchConfig.class
+com\deepak\SpringBatch\SpringBatchApplication.class
+com\deepak\SpringBatch\batch\DBWriter.class
+com\deepak\SpringBatch\batch\Processor.class
